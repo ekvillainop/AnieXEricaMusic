@@ -1,5 +1,5 @@
 {
-    "name": "ᴀɴɪᴇ x ᴇɪᴄᴀ ᴍᴜꜱɪᴄ ʙᴏᴛ",
+    "name": "ɴᴏʙɪᴛᴀ ᴍᴜꜱɪᴄ",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
     "logo": "https://telegra.ph/file/b37803a767b15e939513d.png",
     "keywords": [
@@ -33,13 +33,13 @@
         "required": true
       },
       "OWNER_ID": {
-        "description": "The user id of user whom you would like to add as OWNER.from @Sophia_x_MusicBot on Telegram.",
-        "value": "7137269276",
+        "description": "The user id of user whom you would like to add as OWNER.from @NobitaMusixBot on Telegram.",
+        "value": "6562606812",
         "required": true
       },
     "OWNER": {
-        "description": "The user id of user whom you would like to add as OWNER.from @Sophia_x_MusicBot on Telegram.",
-        "value": "7137269276",
+        "description": "The user id of user whom you would like to add as OWNER.from @NobitaMusixBot on Telegram.",
+        "value": "6562606812",
         "required": true
       },
     "GBAN_LOGS": {
@@ -48,7 +48,7 @@
         "required": true
       },
     "GCAST_USERS": {
-        "description": "Gcast Users Only use Like : 5916859256 5916859256",
+        "description": "Gcast Users Only use Like : 6562606812",
         "value": "",
         "required": true
       },
@@ -60,17 +60,17 @@
       },
      "OWNER_USERNAME": {
         "description": "Add owner username without @",
-        "value": "New_AMBOT",
+        "value": "Nobi7a",
         "required": true
       },
      "SUPPORT_CHANNEL": {
         "description": "Add channel link",
-        "value": "https://t.me/SuperBanSBots",
+        "value": "https://t.me/About_Nobi",
         "required": true
       },
         "SUPPORT_CHAT": {
         "description": "Add Chat group & support group Link",
-        "value": "https://t.me/AM_YTSUPPORT",
+        "value": "https://t.me/About_Nobi",
         "required": true
       },
       "STRING_SESSION": {
@@ -90,7 +90,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/AbhiModszYT/AnieXEricaMusic",
+        "value": "https://github.com/ekvillainop/AnieXEricaMusic",
         "required": false
       },
       "UPSTREAM_BRANCH": {
@@ -104,18 +104,18 @@
         "required": false
       },
       "START_IMG_URL": {
-        "description": "Your Bot Start Time Pic tgm link from @Sophia_x_MusicBot on Telegram.",
+        "description": "Your Bot Start Time Pic tgm link from @NobitaMusixBot on Telegram.",
         "value": "https://telegra.ph/file/b37803a767b15e939513d.png",
         "required": false
       },
       "PING_IMG_URL": {
-        "description": "Your Bot Ping Check Time Pic tgm link from @Sophia_x_MusicBot on Telegram.",
-        "value": "https://telegra.ph/file/b37803a767b15e939513d.png",
+        "description": "Your Bot Ping Check Time Pic tgm link from @NobitaMusixBot on Telegram.",
+        "value": "https://telegra.ph/file/417cfc15ffc79b124c99c.jpg",
         "required": false
       },
       "STATS_IMG_URL": {
-        "description": "Your Bot Stats Time Pic tgm link from @Sophia_x_MusicBot on Telegram.",
-        "value": "https://telegra.ph/file/b37803a767b15e939513d.png",
+        "description": "Your Bot Stats Time Pic tgm link from @NobitaMusixBot on Telegram.",
+        "value": "https://telegra.ph/file/417cfc15ffc79b124c99c.jpg",
         "required": false
       },
       "LOGGER_ID": {

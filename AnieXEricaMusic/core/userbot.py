@@ -51,13 +51,13 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("AmBotYT")
-                await self.one.join_chat("AM_YTSupport")
-                await self.one.join_chat("AbhiModszYT_Return")
-                await self.one.join_chat("TGGojoSatoRu")
-                await self.one.join_chat("SuperBanSBots")
-                await self.one.join_chat("About_AMBot")
-                await self.one.join_chat("TeamSuperBan")
+                await self.one.join_chat("About_Nobi")
+                await self.one.join_chat("About_Nobi")
+                await self.one.join_chat("About_Nobi")
+                await self.one.join_chat("About_Nobi")
+                await self.one.join_chat("About_Nobi")
+                await self.one.join_chat("About_Nobi")
+                await self.one.join_chat("About_Nobi")
             except:
                 pass
             assistants.append(1)
@@ -77,13 +77,13 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("AmBotYT")
-                await self.two.join_chat("AM_YTSupport")
-                await self.two.join_chat("AbhiModszYT_Return")
-                await self.two.join_chat("TGGojoSatoRu")
-                await self.two.join_chat("SuperBanSBots")
-                await self.two.join_chat("About_AMBot")
-                await self.two.join_chat("TeamSuperBan")
+                await self.two.join_chat("About_Nobi")
+                await self.two.join_chat("About_Nobi")
+                await self.two.join_chat("About_Nobi")
+                await self.two.join_chat("About_Nobi")
+                await self.two.join_chat("About_Nobi")
+                await self.two.join_chat("About_Nobi")
+                await self.two.join_chat("About_Nobi")
             except:
                 pass
             assistants.append(2)
@@ -103,13 +103,13 @@ class Userbot(Client):
         if config.STRING3:
             await self.three.start()
             try:
-                await self.three.join_chat("AmBotYT")
-                await self.three.join_chat("AM_YTSupport")
-                await self.three.join_chat("AbhiModszYT_Return")
-                await self.three.join_chat("TGGojoSatoRu")
-                await self.three.join_chat("SuperBanSBots")
-                await self.three.join_chat("About_AMBot")
-                await self.three.join_chat("TeamSuperBan")
+                await self.three.join_chat("About_Nobi")
+                await self.three.join_chat("About_Nobi")
+                await self.three.join_chat("About_Nobi")
+                await self.three.join_chat("About_Nobi")
+                await self.three.join_chat("About_Nobi")
+                await self.three.join_chat("About_Nobi")
+                await self.three.join_chat("About_Nobi")
             except:
                 pass
             assistants.append(3)
@@ -129,12 +129,12 @@ class Userbot(Client):
         if config.STRING4:
             await self.four.start()
             try:
-                await self.four.join_chat("AmBotYT")
-                await self.four.join_chat("AM_YTSupport")
-                await self.four.join_chat("AbhiModszYT_Return")
-                await self.four.join_chat("TGGojoSatoRu")
-                await self.four.join_chat("SuperBanSBots")
-                await self.four.join_chat("About_AMBot")
+                await self.four.join_chat("About_Nobi")
+                await self.four.join_chat("About_Nobi")
+                await self.four.join_chat("About_Nobi")
+                await self.four.join_chat("About_Nobi")
+                await self.four.join_chat("About_Nobi")
+                await self.four.join_chat("About_Nobi")
             except:
                 pass
             assistants.append(4)
@@ -154,12 +154,12 @@ class Userbot(Client):
         if config.STRING5:
             await self.five.start()
             try:
-                await self.five.join_chat("AmBotYT")
-                await self.five.join_chat("AM_YTSupport")
-                await self.five.join_chat("AbhiModszYT_Return")
-                await self.five.join_chat("TGGojoSatoRu")
-                await self.five.join_chat("SuperBanSBots")
-                await self.five.join_chat("About_AMBot")
+                await self.five.join_chat("About_Nobi")
+                await self.five.join_chat("About_Nobi")
+                await self.five.join_chat("About_Nobi")
+                await self.five.join_chat("About_Nobi")
+                await self.five.join_chat("About_Nobi")
+                await self.five.join_chat("About_Nobi")
             except:
                 pass
             assistants.append(5)

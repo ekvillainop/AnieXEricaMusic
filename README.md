@@ -1,9 +1,9 @@
 <h2 align="center">
-    ──「 AnieXErica Music」──
+    ──「 Nobita Music」──
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/f20237d3a028a343d595a.jpg">
+  <img src="https://telegra.ph/file/03957e919bb49a80865b9.jpg">
 </p>
 
 <p align="center">
